@@ -24,7 +24,7 @@ public class Main {
         for (Vehicle vehicle : vehicles) {
             System.out.println(vehicle);
             System.out.println("Is registered? " + IsRegistered(vehicle));
-            if(Car.class == vehicle.getClass()) {
+            if (Car.class == vehicle.getClass()) {
                 System.out.println("Number of seats " + ((Car) vehicle).getNumberOfSeats());
             }
             System.out.println();
