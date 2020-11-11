@@ -2,20 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4072898a-b7d1-4759-9b3a-f8871ec83589" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../week4.maps.arraylist/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4.maps.arraylist/src/ba/edu/ssst/csis280/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4.maps/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4.sorting/src/ba/edu/ssst/csis280/Employee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week3.abstract.class/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week3.abstract.class/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week6.maps/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week6.maps/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week6.maps/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week6.maps/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week6.maps/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week6.maps/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week6.maps/src/ba/edu/ssst/csis280/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week6.maps/week6.maps.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week4.sorting/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week4.sorting/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week4.sorting/out/production/week4.sorting/ba/edu/ssst/csis280/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../week4.sorting/out/production/week4.sorting/ba/edu/ssst/csis280/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week4.sorting/src/ba/edu/ssst/csis280/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week4.sorting/src/ba/edu/ssst/csis280/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week4.sorting/src/ba/edu/ssst/csis280/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week4.sorting/src/ba/edu/ssst/csis280/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -154,12 +145,12 @@
       <updated>1603461621997</updated>
       <workItem from="1603461627560" duration="1412000" />
       <workItem from="1603813274803" duration="1668000" />
-      <workItem from="1604930416107" duration="1877000" />
+      <workItem from="1604930416107" duration="2314000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4957000" />
+    <option name="totallyTimeSpent" value="5394000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1680" y="-407" width="1920" height="1057" extended-state="6" />

@@ -2,20 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e073e08-b0ad-45e6-a118-62c0a468acab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../week4.maps.arraylist/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4.maps.arraylist/src/ba/edu/ssst/csis280/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week4.maps/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ba/edu/ssst/csis280/Employee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week3.abstract.class/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week3.abstract.class/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week3.arrays/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week3.arrays/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week6.maps/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week6.maps/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week6.maps/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week6.maps/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week6.maps/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week6.maps/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week6.maps/src/ba/edu/ssst/csis280/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week6.maps/week6.maps.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week4.sorting/ba/edu/ssst/csis280/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/week4.sorting/ba/edu/ssst/csis280/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ba/edu/ssst/csis280/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ba/edu/ssst/csis280/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ba/edu/ssst/csis280/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ba/edu/ssst/csis280/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,12 +26,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="371" />
+          <entry key="java" value="665" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="371" />
+          <entry key="JAVA" value="665" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -59,8 +51,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ba/edu/ssst/csis280/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="501">
-              <caret line="24" column="34" lean-forward="true" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+            <state relative-caret-position="217">
+              <caret line="35" column="18" lean-forward="true" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -68,15 +60,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ba/edu/ssst/csis280/Employee.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="453">
-              <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+            <state relative-caret-position="488">
+              <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="17" />
               <folding>
-                <element signature="e#273#274#0" expanded="true" />
-                <element signature="e#304#305#0" expanded="true" />
-                <element signature="e#334#335#0" expanded="true" />
-                <element signature="e#363#364#0" expanded="true" />
-                <element signature="e#405#406#0" expanded="true" />
-                <element signature="e#444#445#0" expanded="true" />
+                <element signature="e#292#293#0" expanded="true" />
+                <element signature="e#323#324#0" expanded="true" />
+                <element signature="e#353#354#0" expanded="true" />
+                <element signature="e#382#383#0" expanded="true" />
+                <element signature="e#428#429#0" expanded="true" />
+                <element signature="e#494#495#0" expanded="true" />
+                <element signature="e#545#546#0" expanded="true" />
+                <element signature="e#569#570#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -150,7 +144,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1604936293908" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1605110368572" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -191,12 +185,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604935505405</updated>
-      <workItem from="1604935508653" duration="782000" />
+      <workItem from="1604935508653" duration="3305000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="782000" />
+    <option name="totallyTimeSpent" value="3305000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1680" y="-407" width="1920" height="1057" extended-state="6" />
@@ -207,7 +201,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" weight="0.32953367" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
@@ -216,7 +210,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32953367" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32953367" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -256,23 +250,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ba/edu/ssst/csis280/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="453">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        <state relative-caret-position="488">
+          <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="17" />
           <folding>
-            <element signature="e#273#274#0" expanded="true" />
-            <element signature="e#304#305#0" expanded="true" />
-            <element signature="e#334#335#0" expanded="true" />
-            <element signature="e#363#364#0" expanded="true" />
-            <element signature="e#405#406#0" expanded="true" />
-            <element signature="e#444#445#0" expanded="true" />
+            <element signature="e#292#293#0" expanded="true" />
+            <element signature="e#323#324#0" expanded="true" />
+            <element signature="e#353#354#0" expanded="true" />
+            <element signature="e#382#383#0" expanded="true" />
+            <element signature="e#428#429#0" expanded="true" />
+            <element signature="e#494#495#0" expanded="true" />
+            <element signature="e#545#546#0" expanded="true" />
+            <element signature="e#569#570#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ba/edu/ssst/csis280/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="501">
-          <caret line="24" column="34" lean-forward="true" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+        <state relative-caret-position="217">
+          <caret line="35" column="18" lean-forward="true" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
         </state>
       </provider>
     </entry>

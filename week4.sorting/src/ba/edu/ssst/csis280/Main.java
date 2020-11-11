@@ -13,13 +13,32 @@ public class Main {
         employees.add(new Employee("Acosta, Devin", 2000));
         employees.add(new Employee("Waller, Stone", 3000));
 
-        employees.sort((x, y) -> {
-            if (x.getSalary() > y.getSalary()) {
-                return -1;
-            } else {
+//        [e1, e2, e3, e4, e5, e6]
+//        e1.compare(e2)
+//        e1.compare(e3)
+//        e1.compare(e4)
+//        e1.compare(e5)
+//        e1.compare(e6)
+
+//        public static void Test(Employee x1, Employee x2) {
+//            if (x1.getSalary() > x2.getSalary()) {
+//                return 1;
+//            } else {
+//                return -1;
+//            }
+//        }
+
+
+        int[] a = new int[] { 1, 2, 3, 4, 5};
+        employees.sort((x1, x2) -> {
+            if (x1.getSalary() > x2.getSalary()) {
                 return 1;
+            } else {
+                return -1;
             }
         });
+
+        // employees.sort((x1, x2) -> x1.getSalary() > x2.getSalary() ? -1 : 1);
 
         for (Employee e : employees) {
             System.out.println(e);

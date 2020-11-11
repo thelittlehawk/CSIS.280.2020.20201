@@ -1,6 +1,6 @@
 package ba.edu.ssst.csis280;
 
-public class Employee {
+public class Employee implements Comparable {
 
     private final String fullName;
     private final int salary;
@@ -22,5 +22,10 @@ public class Employee {
     @Override
     public String toString() {
         return this.getFullName() + " " + this.getSalary();
+    }
+
+    @Override
+    public int compareTo(Object o) {
+        return 0;
     }
 }
