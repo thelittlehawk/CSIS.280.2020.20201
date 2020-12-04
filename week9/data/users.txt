@@ -1,0 +1,3 @@
+Admin, administrator
+Smith, user
+John, user

@@ -1,6 +1,8 @@
 package ba.edu.ssst.csis280;
 
 import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Map;
 
 public class Main {
 
@@ -27,7 +29,6 @@ public class Main {
 //                return -1;
 //            }
 //        }
-
 
         int[] a = new int[] { 1, 2, 3, 4, 5};
         employees.sort((x1, x2) -> {

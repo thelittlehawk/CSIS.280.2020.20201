@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4c72db58-bed9-46f8-a15e-17767b7ec3de" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ba/edu/ssst/csis280/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week3.abstract.class/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week3.abstract.class/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week3.arrays/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week3.arrays/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week4.sorting/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week4.sorting/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week4.sorting/src/ba/edu/ssst/csis280/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week4.sorting/src/ba/edu/ssst/csis280/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1kNHIhKaSaGNbpkUsqizZip52TY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1605272922506" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ba.edu.ssst.csis280" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ba.edu.ssst.csis280.Main" />
+      <module name="week4.students" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c72db58-bed9-46f8-a15e-17767b7ec3de" name="Default Changelist" comment="" />
+      <created>1605111673749</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605111673749</updated>
+      <workItem from="1605111676643" duration="4043000" />
+      <workItem from="1605382530516" duration="287000" />
+      <workItem from="1605383165504" duration="2000" />
+      <workItem from="1605534051413" duration="4456000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1638" height="250" key="GridCell.Tab.0.bottom" timestamp="1605615219440">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="250" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1605615219440" />
+    <state width="1878" height="250" key="GridCell.Tab.0.bottom/1680.-407.1920.1057/0.23.1680.1027@1680.-407.1920.1057" timestamp="1605539054963" />
+    <state width="1638" height="250" key="GridCell.Tab.0.center" timestamp="1605615219440">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="250" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1605615219440" />
+    <state width="1878" height="250" key="GridCell.Tab.0.center/1680.-407.1920.1057/0.23.1680.1027@1680.-407.1920.1057" timestamp="1605539054962" />
+    <state width="1638" height="250" key="GridCell.Tab.0.left" timestamp="1605615219439">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="250" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1605615219439" />
+    <state width="1878" height="250" key="GridCell.Tab.0.left/1680.-407.1920.1057/0.23.1680.1027@1680.-407.1920.1057" timestamp="1605539054961" />
+    <state width="1638" height="250" key="GridCell.Tab.0.right" timestamp="1605615219440">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="250" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1605615219440" />
+    <state width="1878" height="250" key="GridCell.Tab.0.right/1680.-407.1920.1057/0.23.1680.1027@1680.-407.1920.1057" timestamp="1605539054963" />
+    <state x="197" y="194" key="SettingsEditor" timestamp="1605615197076">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="197" y="194" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1605615197076" />
+    <state x="1905" y="-231" key="SettingsEditor/1680.-407.1920.1057/0.23.1680.1027@1680.-407.1920.1057" timestamp="1605539350456" />
+  </component>
+</project>

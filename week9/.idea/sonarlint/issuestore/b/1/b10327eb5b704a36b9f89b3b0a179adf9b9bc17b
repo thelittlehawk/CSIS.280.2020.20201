@@ -1,0 +1,20 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÆÙŸŞ8ãï–ïâ.
+T	java:S106G"9Replace this use of System.out or System.err by a logger.(Ô8Öæğîâ.
+Q
+java:S3740"/Provide the parametrized type for this generic.(Æá×Æıÿÿÿÿ8“šÿîâ.
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(¿Ù›óıÿÿÿÿ8ş¹‰ïâ.
+Z	java:S106I"9Replace this use of System.out or System.err by a logger.(¹ùÖ¯şÿÿÿÿ8İ÷óîâ.
+Z	java:S106t"9Replace this use of System.out or System.err by a logger.(¿Ù›óıÿÿÿÿ8‘ºÇîâ.
+T	java:S106["9Replace this use of System.out or System.err by a logger.(Ô8‰«¸îâ.
+e
+java:S2095M"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(´ˆâë8§Á‚ïâ.
+U	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(ˆÍ]8‘ºÇîâ.
+Z	java:S106]"9Replace this use of System.out or System.err by a logger.(¹ùÖ¯şÿÿÿÿ8‰«¸îâ.
+X	java:S125a"<This block of commented-out lines of code should be removed.(©è¹8»Íæîâ.
+T	java:S106<"9Replace this use of System.out or System.err by a logger.(ˆÍ]8ş¹‰ïâ.
+Z	java:S106{"9Replace this use of System.out or System.err by a logger.(ì­øúÿÿÿÿ8‘ºÇîâ.
+e
+java:S2095b"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(´ˆâë8ƒùÌîâ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ãæÄøÿÿÿÿ8©¤ßíâ.
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(«¥À·øÿÿÿÿ8¼™–ïâ.
