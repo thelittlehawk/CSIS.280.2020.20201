@@ -1,14 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ded049de-76b9-4628-9ff8-9405abbf5d8e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ba/edu/ssst/csis280/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4.students/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4.students/src/ba/edu/ssst/csis280/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3.abstract.class/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week3.abstract.class/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3.arrays/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week3.arrays/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week4.sorting/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week4.sorting/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week4.sorting/src/ba/edu/ssst/csis280/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/week4.sorting/src/ba/edu/ssst/csis280/Main.java" afterDir="false" />
+    <list default="true" id="94b1328c-85fe-46b8-9afa-a496684a2007" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/week09.files/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week09.files/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week09.files/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week09.files/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week09.files/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week09.files/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week09.files/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week09.files/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week09.files/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week09.files/src/ba/edu/ssst/csis280/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week09.files/src/ba/edu/ssst/csis280/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week09.files/src/ba/edu/ssst/csis280/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week09.files/src/ba/edu/ssst/csis280/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week09.files/students.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week09.files/students_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week09.files/students_2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week09.files/students_3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week09.files/students_4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week09.files/week09.files.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ba/edu/ssst/csis280/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ba/edu/ssst/csis280/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,12 +33,18 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Main.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ba/edu/ssst/csis280/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="14" selection-start="14" selection-end="14" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -31,22 +52,72 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
-  <component name="ProjectId" id="1kTERhol6oqgZsGKNIXl54oe7on" />
+  <component name="ProjectId" id="1lVhF94XUZPMvOkxJcFpIF3nAlC" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="ba.edu.ssst.csis280" />
-    </key>
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -59,74 +130,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ded049de-76b9-4628-9ff8-9405abbf5d8e" name="Default Changelist" comment="" />
-      <created>1605716176739</created>
+      <changelist id="94b1328c-85fe-46b8-9afa-a496684a2007" name="Default Changelist" comment="" />
+      <created>1607688064339</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1605716176739</updated>
-      <workItem from="1605716178337" duration="2616000" />
+      <updated>1607688064339</updated>
+      <workItem from="1607688065527" duration="129000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state width="1878" height="321" key="GridCell.Tab.0.bottom" timestamp="1605819506675">
-      <screen x="1680" y="-407" width="1920" height="1057" />
-    </state>
-    <state width="1878" height="321" key="GridCell.Tab.0.bottom/1680.-407.1920.1057/0.23.1680.1027@1680.-407.1920.1057" timestamp="1605819506675" />
-    <state width="1878" height="321" key="GridCell.Tab.0.center" timestamp="1605819506674">
-      <screen x="1680" y="-407" width="1920" height="1057" />
-    </state>
-    <state width="1878" height="321" key="GridCell.Tab.0.center/1680.-407.1920.1057/0.23.1680.1027@1680.-407.1920.1057" timestamp="1605819506674" />
-    <state width="1878" height="321" key="GridCell.Tab.0.left" timestamp="1605819506673">
-      <screen x="1680" y="-407" width="1920" height="1057" />
-    </state>
-    <state width="1878" height="321" key="GridCell.Tab.0.left/1680.-407.1920.1057/0.23.1680.1027@1680.-407.1920.1057" timestamp="1605819506673" />
-    <state width="1878" height="321" key="GridCell.Tab.0.right" timestamp="1605819506674">
-      <screen x="1680" y="-407" width="1920" height="1057" />
-    </state>
-    <state width="1878" height="321" key="GridCell.Tab.0.right/1680.-407.1920.1057/0.23.1680.1027@1680.-407.1920.1057" timestamp="1605819506674" />
-    <state width="1878" height="321" key="GridCell.Tab.1.bottom" timestamp="1605819506676">
-      <screen x="1680" y="-407" width="1920" height="1057" />
-    </state>
-    <state width="1878" height="321" key="GridCell.Tab.1.bottom/1680.-407.1920.1057/0.23.1680.1027@1680.-407.1920.1057" timestamp="1605819506676" />
-    <state width="1878" height="321" key="GridCell.Tab.1.center" timestamp="1605819506675">
-      <screen x="1680" y="-407" width="1920" height="1057" />
-    </state>
-    <state width="1878" height="321" key="GridCell.Tab.1.center/1680.-407.1920.1057/0.23.1680.1027@1680.-407.1920.1057" timestamp="1605819506675" />
-    <state width="1878" height="321" key="GridCell.Tab.1.left" timestamp="1605819506675">
-      <screen x="1680" y="-407" width="1920" height="1057" />
-    </state>
-    <state width="1878" height="321" key="GridCell.Tab.1.left/1680.-407.1920.1057/0.23.1680.1027@1680.-407.1920.1057" timestamp="1605819506675" />
-    <state width="1878" height="321" key="GridCell.Tab.1.right" timestamp="1605819506676">
-      <screen x="1680" y="-407" width="1920" height="1057" />
-    </state>
-    <state width="1878" height="321" key="GridCell.Tab.1.right/1680.-407.1920.1057/0.23.1680.1027@1680.-407.1920.1057" timestamp="1605819506676" />
-    <state x="2128" y="-297" key="SettingsEditor" timestamp="1605717206908">
-      <screen x="1680" y="-407" width="1920" height="1057" />
-    </state>
-    <state x="2128" y="-297" key="SettingsEditor/1680.-407.1920.1057/0.23.1680.1027@1680.-407.1920.1057" timestamp="1605717206908" />
   </component>
 </project>

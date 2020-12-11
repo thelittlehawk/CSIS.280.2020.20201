@@ -1,0 +1,8 @@
+Student{id=1, fullName='Bennie Daintree', yearOfStudy=2}[Course{name='CS110 Programming and Problem Solving I'}, Course{name='CS120 Introduction to Computer Systems'}, Course{name='Math150 Calculus'}, Course{name='LANG121E Language (English)'}, Course{name='LANG121G Language (German)'}]
+Student{id=4, fullName='Justina Lippiatt', yearOfStudy=2}[Course{name='LANG121E Language (English)'}, Course{name='LANG121G Language (German)'}]
+Student{id=8, fullName='Mariska Maryet', yearOfStudy=2}[Course{name='LANG121E Language (English)'}, Course{name='LANG121G Language (German)'}]
+Student{id=10, fullName='Garrek Westnage', yearOfStudy=2}[Course{name='LANG121E Language (English)'}, Course{name='LANG121G Language (German)'}]
+Student{id=16, fullName='Dacy Belderson', yearOfStudy=2}[Course{name='LANG121E Language (English)'}, Course{name='LANG121G Language (German)'}]
+Student{id=18, fullName='Dexter Rawsen', yearOfStudy=2}[Course{name='LANG121E Language (English)'}, Course{name='LANG121G Language (German)'}]
+Student{id=19, fullName='Grove Vickar', yearOfStudy=2}[Course{name='LANG121E Language (English)'}, Course{name='LANG121G Language (German)'}]
+Student{id=25, fullName='Yule Rattery', yearOfStudy=2}[Course{name='LANG121E Language (English)'}, Course{name='LANG121G Language (German)'}]
