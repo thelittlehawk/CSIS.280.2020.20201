@@ -1,0 +1,13 @@
+
+
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(õıÆ¨8¿ñå.
+U
+java:S1874"3Remove this use of "newInstance"; it is deprecated.(Çª Çøÿÿÿÿ8ôÈíå.
+L
+java:S3740"/Provide the parametrized type for this generic.(ßÃò¿8İñôå.
+b
+java:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(şğûİ8İñôå.
+a
+java:S2147"DCombine this catch with the one at line 26, which has the same body.(Å¡ß8Ùííå.
+a
+java:S2147"DCombine this catch with the one at line 26, which has the same body.(¯áè8Ùííå.
