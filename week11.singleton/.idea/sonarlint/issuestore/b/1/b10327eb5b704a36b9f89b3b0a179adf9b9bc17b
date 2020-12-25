@@ -1,0 +1,14 @@
+
+g
+java:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(Á§­æûÿÿÿÿ8€²è¯ç.
+W	java:S125
+"<This block of commented-out lines of code should be removed.(ä¤Ó8Æöû¯ç.
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(ª„»Ûüÿÿÿÿ8Ó¢¤°ç.
+S
+java:S1144"1Remove this unused private "readFormFile" method.(îíŸéûÿÿÿÿ8Ì¦°ç.
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(­¶…îúÿÿÿÿ8À—´°ç.
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(Û—àÙûÿÿÿÿ8“•¦°ç.
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(Ý£—é8Ó¢¤°ç.
+U	java:S106	"9Replace this use of System.out or System.err by a logger.(›‡ªª8ÌÝæ®ç.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Œƒ»‡8¦Áü¯ç.
+W	java:S125!"<This block of commented-out lines of code should be removed.(ì»ÕX8Ì¦°ç.
