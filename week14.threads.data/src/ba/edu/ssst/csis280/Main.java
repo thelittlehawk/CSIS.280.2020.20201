@@ -14,7 +14,7 @@ public class Main {
             Scanner scanner = new Scanner(file);
 
             while(scanner.hasNextLine()) {
-                String[] parts = scanner.nextLine().split(", ");
+                String[] parts = scanner.nextLine().split(",");
                 Name n = new Name(parts[0].trim(), parts[1].trim());
                 names.add(n);
             }
@@ -33,15 +33,24 @@ public class Main {
             Thread t1 = new Thread(miFirstPart);
             Thread t2 = new Thread(miSecondPart);
 
+            long startTime = System.currentTimeMillis();
+
             t1.start();
             t2.start();
 
             t1.join();
             t2.join();
 
-            for (Name name: Storage.getInstance().getNames()) {
-                System.out.println(name);
-            }
+//            for (Name name: Storage.getInstance().getNames()) {
+//                System.out.println(name);
+//            }
+
+            t1.join();
+            t2.join();
+
+            long endTime = System.currentTimeMillis();
+
+            System.out.println(endTime - startTime);
         } catch (FileNotFoundException | InterruptedException e) {
             e.printStackTrace();
         }

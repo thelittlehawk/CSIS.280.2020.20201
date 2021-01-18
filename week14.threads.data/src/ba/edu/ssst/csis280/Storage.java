@@ -3,6 +3,8 @@ package ba.edu.ssst.csis280;
 import java.util.ArrayList;
 
 public class Storage {
+    static Object obj = new Object();
+
     private static Storage instace;
     private ArrayList<Name> names;
 
@@ -16,7 +18,9 @@ public class Storage {
     }
 
     public void addNewName(Name name) {
-        this.names.add(name);
+        synchronized (obj)  {
+            this.names.add(name);
+        }
     }
 
     public ArrayList<Name> getNames() {
