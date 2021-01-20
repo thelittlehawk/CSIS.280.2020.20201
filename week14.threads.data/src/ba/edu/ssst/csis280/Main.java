@@ -45,12 +45,11 @@ public class Main {
 //                System.out.println(name);
 //            }
 
-            t1.join();
-            t2.join();
-
             long endTime = System.currentTimeMillis();
 
             System.out.println(endTime - startTime);
+
+
         } catch (FileNotFoundException | InterruptedException e) {
             e.printStackTrace();
         }

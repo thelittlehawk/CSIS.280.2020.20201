@@ -1,0 +1,15 @@
+
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(Åü®–8œ¹§³ñ.
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ñşõ8¿‚•³ñ.
+d
+java:S2184"BCast one of the operands of this division operation to a "double".(‚ø·Âûÿÿÿÿ8¿‚•³ñ.
+h
+java:S21425"FEither re-interrupt this method or rethrow the "InterruptedException".(¤‡Æ¹ıÿÿÿÿ8°—å²ñ.
+G
+java:S2185"%Remove this silly call to "Math.ceil"(‚ø·Âûÿÿÿÿ8¿‚•³ñ.
+X	java:S125,"<This block of commented-out lines of code should be removed.(Ä´š8»µ¨³ñ.
+g
+java:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(Èñ¾„ıÿÿÿÿ8°—å²ñ.
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(™§Åûÿÿÿÿ8¿‚•³ñ.
